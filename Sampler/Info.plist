@@ -41,9 +41,18 @@
 	<key>UISupportedInterfaceOrientations</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
+		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
 		<string>UIInterfaceOrientationLandscapeRight</string>
 	</array>
+	<key>NSLocationAlwaysUsageDescription</key>
+	<string>Sampler</string>
+	<key>NSLocationUsageDescription</key>
+	<string>Sampler</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+	<string>Sampler</string>
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+	<string>Sampler</string>
 	<key>UISupportedInterfaceOrientations~ipad</key>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
